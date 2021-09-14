@@ -36,3 +36,12 @@ main h2 {
     background-color: lightblue;
     padding: 3px;
 }
+
+.jo-style {
+    color:white;
+    background-color: lightslategrey;
+    padding: 10px;
+    border-radius: 60px;
+    border-style: solid;
+    border-color: white;
+}
