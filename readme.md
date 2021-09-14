@@ -1,5 +1,7 @@
 # Class Roster Project
 
-Wednesday
+Monday
 
-Contributed to by Joleena Velez
+
+Contributed to by Joleena Velez, JeisonDIO
+
